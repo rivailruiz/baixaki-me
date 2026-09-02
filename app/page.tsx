@@ -1,5 +1,15 @@
 const apps = [
   {
+    name: 'UniTV',
+    category: 'Streaming',
+    description: 'Baixe o aplicativo UniTV diretamente para seu dispositivo Android.',
+    version: 'Android',
+    size: '39,2 MB',
+    mark: 'U',
+    tone: 'red',
+    downloadUrl: 'https://fashionai.nyc3.cdn.digitaloceanspaces.com/downloads/unitv-celular-uniitv.com.br.apk',
+  },
+  {
     name: 'Kodi',
     category: 'Entretenimento',
     description: 'Organize e reproduza sua biblioteca de filmes, séries e músicas.',

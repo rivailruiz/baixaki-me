@@ -573,6 +573,7 @@ h1 em {
 .violet { background: linear-gradient(145deg, #a284f7, #6354c9); }
 .green { background: linear-gradient(145deg, #4fe384, #159b50); }
 .pink { background: linear-gradient(145deg, #ff8cb4, #d84f84); }
+.red { background: linear-gradient(145deg, #ff7868, #cf2f45); }
 
 .app-content {
   padding-top: 22px;
