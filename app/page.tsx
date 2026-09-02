@@ -179,7 +179,7 @@ export default function Home() {
                   </div>
                 </div>
                 {app.downloadUrl ? (
-                  <a className="download-button focusable" href={app.downloadUrl}>
+                  <a className="download-button focusable" href={app.downloadUrl} data-no-cache="true">
                     Baixar <span aria-hidden="true">↓</span>
                   </a>
                 ) : (
