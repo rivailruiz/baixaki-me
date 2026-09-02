@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://tv-apps-na-tv.rivailruiz.chatgpt.site'),
+  metadataBase: new URL('https://baixaki.me'),
   title: 'TV Apps — Aplicativos para sua TV',
   description: 'Baixe seus aplicativos favoritos diretamente pelo navegador da sua TV.',
   openGraph: {
